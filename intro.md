@@ -10,4 +10,6 @@ For Italic _This is Italic Text_
 git status
 git add
 git commit
+git statu
+git username
 ```
